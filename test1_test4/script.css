@@ -1,0 +1,21 @@
+#zone{
+	display: block;
+}
+
+p {
+	display: flex;
+	height: 300px;/*Le paragraphe aura cette hauteur*/ 
+	width: 700px;/*Le paragraphe aura cette largeur*/ 
+}
+.flotte{
+	float: left;
+	font-weight: bold;
+	margin-right: 5px;
+}
+.
+.resumé{
+	display: block;
+}
+h2 {
+	display: block;
+}
